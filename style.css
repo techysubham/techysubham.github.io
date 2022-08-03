@@ -200,7 +200,7 @@ p
     color: #2a7da2;
     font-size: 16px;
 }
-.skills.box
+.skills .box
 {
     position: relative;
     width: 100px;
@@ -223,7 +223,7 @@ p
     height: 10px;
     background: #03a9f4;
 }
-.skills.box .percent div
+.skills .box .percent div
 {
     position: absolute;
     top: 0;
